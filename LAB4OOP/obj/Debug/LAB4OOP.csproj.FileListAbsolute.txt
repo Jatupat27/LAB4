@@ -1,0 +1,20 @@
+D:\Programming\C#\My job\LAB4\LAB4OOP\LAB4OOP\bin\Debug\LAB4OOP.exe.config
+D:\Programming\C#\My job\LAB4\LAB4OOP\LAB4OOP\bin\Debug\LAB4OOP.exe
+D:\Programming\C#\My job\LAB4\LAB4OOP\LAB4OOP\bin\Debug\LAB4OOP.pdb
+D:\Programming\C#\My job\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.csproj.AssemblyReference.cache
+D:\Programming\C#\My job\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.Form1.resources
+D:\Programming\C#\My job\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.Properties.Resources.resources
+D:\Programming\C#\My job\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.csproj.GenerateResource.cache
+D:\Programming\C#\My job\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.csproj.CoreCompileInputs.cache
+D:\Programming\C#\My job\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.exe
+D:\Programming\C#\My job\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.pdb
+D:\OOP\LAB4\LAB4\LAB4OOP\LAB4OOP\bin\Debug\LAB4OOP.exe.config
+D:\OOP\LAB4\LAB4\LAB4OOP\LAB4OOP\bin\Debug\LAB4OOP.exe
+D:\OOP\LAB4\LAB4\LAB4OOP\LAB4OOP\bin\Debug\LAB4OOP.pdb
+D:\OOP\LAB4\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.csproj.AssemblyReference.cache
+D:\OOP\LAB4\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.Form1.resources
+D:\OOP\LAB4\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.Properties.Resources.resources
+D:\OOP\LAB4\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.csproj.GenerateResource.cache
+D:\OOP\LAB4\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.csproj.CoreCompileInputs.cache
+D:\OOP\LAB4\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.exe
+D:\OOP\LAB4\LAB4\LAB4OOP\LAB4OOP\obj\Debug\LAB4OOP.pdb
